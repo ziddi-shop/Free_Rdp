@@ -25,7 +25,7 @@ Step 5 - Then run file If without error file run then go to in your bot and /sta
 
 Step 6 (optional) - If you face any error then you install pip file then run 
 
-Step 9 - If You Choice Pydroid3 Ya Visual Studio first Off All You Need Some PiP So Please Install All Pip Pip File Link Below Mention !
+Step 7 - If You Choice Pydroid3 Ya Visual Studio first Off All You Need Some PiP So Please Install All Pip Pip File Link Below Mention !
 
   PIP FILE [ https://t.me/ziddi_shop/875]
 
